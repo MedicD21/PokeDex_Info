@@ -390,8 +390,8 @@ class ExcelDataImporter:
             "hp": "HP",
             "attack": "Attack",
             "defense": "Defense",
-            "sp_attack": "Sp. Attack",
-            "sp_defense": "Sp. Defense",
+            "sp_attack": "Sp. Atk",
+            "sp_defense": "Sp. Def",
             "speed": "Speed",
         }
 
