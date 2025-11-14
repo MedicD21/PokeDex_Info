@@ -1,0 +1,85 @@
+[
+  {
+    "generation": 1,
+    "region": "Kanto",
+    "games": ["Red", "Blue", "Yellow"],
+    "release_year": 1996,
+    "platform": "Game Boy"
+  },
+  {
+    "generation": 2,
+    "region": "Johto",
+    "games": ["Gold", "Silver", "Crystal"],
+    "release_year": 1999,
+    "platform": "Game Boy Color"
+  },
+  {
+    "generation": 3,
+    "region": "Hoenn",
+    "games": ["Ruby", "Sapphire", "Emerald", "FireRed", "LeafGreen"],
+    "release_year": 2002,
+    "platform": "Game Boy Advance"
+  },
+  {
+    "generation": 4,
+    "region": "Sinnoh",
+    "games": ["Diamond", "Pearl", "Platinum", "HeartGold", "SoulSilver"],
+    "release_year": 2006,
+    "platform": "Nintendo DS"
+  },
+  {
+    "generation": 5,
+    "region": "Unova",
+    "games": ["Black", "White", "Black 2", "White 2"],
+    "release_year": 2010,
+    "platform": "Nintendo DS"
+  },
+  {
+    "generation": 6,
+    "region": "Kalos",
+    "games": ["X", "Y", "Omega Ruby", "Alpha Sapphire"],
+    "release_year": 2013,
+    "platform": "Nintendo 3DS"
+  },
+  {
+    "generation": 7,
+    "region": "Alola",
+    "games": [
+      "Sun",
+      "Moon",
+      "Ultra Sun",
+      "Ultra Moon",
+      "Let's Go Pikachu",
+      "Let's Go Eevee"
+    ],
+    "release_year": 2016,
+    "platform": "Nintendo 3DS"
+  },
+  {
+    "generation": 8,
+    "region": "Galar",
+    "games": [
+      "Sword",
+      "Shield",
+      "Brilliant Diamond",
+      "Shining Pearl",
+      "Legends Arceus"
+    ],
+    "release_year": 2019,
+    "platform": "Nintendo Switch"
+  },
+  {
+    "generation": 9,
+    "region": "Paldea",
+    "games": ["Scarlet", "Violet"],
+    "release_year": 2022,
+    "platform": "Nintendo Switch"
+  },
+  {
+    "generation": 9,
+    "region": "Kalos",
+    "games": ["Legends Z-A"],
+    "release_year": 2025,
+    "platform": "Nintendo Switch / Switch 2"
+  }
+]

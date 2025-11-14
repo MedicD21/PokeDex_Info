@@ -1,0 +1,4909 @@
+[
+  {
+    "name": "Absorb",
+    "battle_type": "Grass",
+    "category": "Special",
+    "power_points": 25,
+    "base_power": 20,
+    "accuracy": 100,
+    "battle_effect": "The user attacks by draining targets of their nutrients. The user's HP will be restored by a portion of the damage dealt.",
+    "secondary_effect": "User recovers half the damage inflicted.",
+    "effect_rate": "",
+    "base_critical_hit_rate": "4.17%",
+    "speed_priority": 0,
+    "pokemon_hit_in_battle": "Selected Target",
+    "physical_contact": false,
+    "sound_type": false,
+    "punch_move": false,
+    "biting_move": false,
+    "snatchable": false,
+    "slicing_move": false,
+    "bullet_type": false,
+    "wind_move": false,
+    "powder_move": false,
+    "metronome": true,
+    "affected_by_gravity": false,
+    "defrosts_when_used": false,
+    "reflected_by_magic_coat": false,
+    "blocked_by_protect": true,
+    "copyable_by_mirror_move": true,
+    "z_move_power": "",
+    "z_move_effect": "",
+    "learned_by": [
+      {
+        "dex_number": "0043",
+        "name": "Oddish",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0044",
+        "name": "Gloom",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0045",
+        "name": "Vileplume",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0102",
+        "name": "Exeggcute",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0103",
+        "name": "Exeggutor",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0103",
+        "name": "Exeggutor",
+        "form": "Alolan",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0167",
+        "name": "Spinarak",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 5
+      },
+      {
+        "dex_number": "0168",
+        "name": "Ariados",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0182",
+        "name": "Bellossom",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0187",
+        "name": "Hoppip",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 6
+      },
+      {
+        "dex_number": "0188",
+        "name": "Skiploom",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0189",
+        "name": "Jumpluff",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0191",
+        "name": "Sunkern",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 7
+      },
+      {
+        "dex_number": "0192",
+        "name": "Sunflora",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 7
+      },
+      {
+        "dex_number": "0270",
+        "name": "Lotad",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 3
+      },
+      {
+        "dex_number": "0271",
+        "name": "Lombre",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0273",
+        "name": "Seedot",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 3
+      },
+      {
+        "dex_number": "0274",
+        "name": "Nuzleaf",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0285",
+        "name": "Shroomish",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0286",
+        "name": "Breloom",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0331",
+        "name": "Cacnea",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 4
+      },
+      {
+        "dex_number": "0332",
+        "name": "Cacturne",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0387",
+        "name": "Turtwig",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 9
+      },
+      {
+        "dex_number": "0388",
+        "name": "Grotle",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0389",
+        "name": "Torterra",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0402",
+        "name": "Kricketune",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 14
+      },
+      {
+        "dex_number": "0546",
+        "name": "Cottonee",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0547",
+        "name": "Whimsicott",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0548",
+        "name": "Petilil",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0549",
+        "name": "Lilligant",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0549",
+        "name": "Lilligant",
+        "form": "Hisuian",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0590",
+        "name": "Foongus",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0591",
+        "name": "Amoonguss",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0595",
+        "name": "Joltik",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0596",
+        "name": "Galvantula",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0704",
+        "name": "Goomy",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0705",
+        "name": "Sliggoo",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0705",
+        "name": "Sliggoo",
+        "form": "Hisuian",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0706",
+        "name": "Goodra",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0706",
+        "name": "Goodra",
+        "form": "Hisuian",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0714",
+        "name": "Noibat",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0715",
+        "name": "Noivern",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0742",
+        "name": "Cutiefly",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0743",
+        "name": "Ribombee",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0769",
+        "name": "Sandygast",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0770",
+        "name": "Palossand",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0928",
+        "name": "Smoliv",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 5
+      },
+      {
+        "dex_number": "0929",
+        "name": "Dolliv",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 5
+      },
+      {
+        "dex_number": "0930",
+        "name": "Arboliva",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 5
+      },
+      {
+        "dex_number": "0946",
+        "name": "Bramblin",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 5
+      },
+      {
+        "dex_number": "0947",
+        "name": "Brambleghast",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 5
+      },
+      {
+        "dex_number": "0948",
+        "name": "Toedscool",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 4
+      },
+      {
+        "dex_number": "0949",
+        "name": "Toedscruel",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 4
+      },
+      {
+        "dex_number": "0986",
+        "name": "Brute Bonnet",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "1001",
+        "name": "Wo-Chien",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "1012",
+        "name": "Poltchageist",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 6
+      },
+      {
+        "dex_number": "1013",
+        "name": "Sinistcha",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 6
+      },
+      {
+        "dex_number": "0272",
+        "name": "Ludicolo",
+        "form": "Normal",
+        "method": "Move Reminder"
+      },
+      {
+        "dex_number": "0275",
+        "name": "Shiftry",
+        "form": "Normal",
+        "method": "Move Reminder"
+      },
+      {
+        "dex_number": "0252",
+        "name": "Treecko",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0253",
+        "name": "Grovyle",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0254",
+        "name": "Sceptile",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0636",
+        "name": "Larvesta",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0637",
+        "name": "Volcarona",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0167",
+        "name": "Spinarak",
+        "form": "Normal",
+        "method": "Z-A Level Up",
+        "level": 5
+      },
+      {
+        "dex_number": "0168",
+        "name": "Ariados",
+        "form": "Normal",
+        "method": "Z-A Level Up",
+        "level": 5
+      },
+      {
+        "dex_number": "0315",
+        "name": "Roselia",
+        "form": "Normal",
+        "method": "Z-A Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0406",
+        "name": "Budew",
+        "form": "Normal",
+        "method": "Z-A Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0407",
+        "name": "Roserade",
+        "form": "Normal",
+        "method": "Z-A Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0704",
+        "name": "Goomy",
+        "form": "Normal",
+        "method": "Z-A Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0705",
+        "name": "Sliggoo",
+        "form": "Normal",
+        "method": "Z-A Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0705",
+        "name": "Sliggoo",
+        "form": "Hisuian",
+        "method": "Z-A Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0706",
+        "name": "Goodra",
+        "form": "Normal",
+        "method": "Z-A Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0706",
+        "name": "Goodra",
+        "form": "Hisuian",
+        "method": "Z-A Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0714",
+        "name": "Noibat",
+        "form": "Normal",
+        "method": "Z-A Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0715",
+        "name": "Noivern",
+        "form": "Normal",
+        "method": "Z-A Level Up",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Accelerock",
+    "battle_type": "Rock",
+    "category": "Physical",
+    "power_points": 20,
+    "base_power": 40,
+    "accuracy": 100,
+    "battle_effect": "The user smashes into the target at high speed. This move always goes first.",
+    "secondary_effect": "Has increased Speed Priority",
+    "effect_rate": "",
+    "base_critical_hit_rate": "4.17%",
+    "speed_priority": 1,
+    "pokemon_hit_in_battle": "Selected Target",
+    "physical_contact": true,
+    "sound_type": false,
+    "punch_move": false,
+    "biting_move": false,
+    "snatchable": false,
+    "slicing_move": false,
+    "bullet_type": false,
+    "wind_move": false,
+    "powder_move": false,
+    "metronome": true,
+    "affected_by_gravity": false,
+    "defrosts_when_used": false,
+    "reflected_by_magic_coat": false,
+    "blocked_by_protect": true,
+    "copyable_by_mirror_move": true,
+    "z_move_power": "",
+    "z_move_effect": "",
+    "learned_by": [
+      {
+        "dex_number": "0745",
+        "name": "Lycanroc",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Acid",
+    "battle_type": "Poison",
+    "category": "Special",
+    "power_points": 30,
+    "base_power": 40,
+    "accuracy": 100,
+    "battle_effect": "Opposing Pokémon are attacked with a spray of harsh acid. This may also lower their Sp. Def stats.",
+    "secondary_effect": "May lower opponent's Special Defense one stage.",
+    "effect_rate": "",
+    "base_critical_hit_rate": "4.17%",
+    "speed_priority": 0,
+    "pokemon_hit_in_battle": "All Adjacent Foes",
+    "physical_contact": false,
+    "sound_type": false,
+    "punch_move": false,
+    "biting_move": false,
+    "snatchable": false,
+    "slicing_move": false,
+    "bullet_type": false,
+    "wind_move": false,
+    "powder_move": false,
+    "metronome": true,
+    "affected_by_gravity": false,
+    "defrosts_when_used": false,
+    "reflected_by_magic_coat": false,
+    "blocked_by_protect": true,
+    "copyable_by_mirror_move": true,
+    "z_move_power": "",
+    "z_move_effect": "",
+    "learned_by": [
+      {
+        "dex_number": "0023",
+        "name": "Ekans",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 20
+      },
+      {
+        "dex_number": "0024",
+        "name": "Arbok",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 20
+      },
+      {
+        "dex_number": "0043",
+        "name": "Oddish",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 4
+      },
+      {
+        "dex_number": "0044",
+        "name": "Gloom",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0045",
+        "name": "Vileplume",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0069",
+        "name": "Bellsprout",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 23
+      },
+      {
+        "dex_number": "0070",
+        "name": "Weepinbell",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 24
+      },
+      {
+        "dex_number": "0072",
+        "name": "Tentacool",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 4
+      },
+      {
+        "dex_number": "0073",
+        "name": "Tentacruel",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0079",
+        "name": "Slowpoke",
+        "form": "Galarian",
+        "method": "Level Up",
+        "level": 6
+      },
+      {
+        "dex_number": "0080",
+        "name": "Slowbro",
+        "form": "Galarian",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0182",
+        "name": "Bellossom",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0199",
+        "name": "Slowking",
+        "form": "Galarian",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0603",
+        "name": "Eelektrik",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 19
+      },
+      {
+        "dex_number": "0604",
+        "name": "Eelektross",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0690",
+        "name": "Skrelp",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 5
+      },
+      {
+        "dex_number": "0691",
+        "name": "Dragalge",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0848",
+        "name": "Toxel",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0849",
+        "name": "Toxtricity",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0331",
+        "name": "Cacnea",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0332",
+        "name": "Cacturne",
+        "form": "Normal",
+        "method": "Breeding"
+      }
+    ]
+  },
+  {
+    "name": "Acid Armor",
+    "battle_type": "Poison",
+    "category": "Other",
+    "power_points": 20,
+    "base_power": 0,
+    "accuracy": 101,
+    "battle_effect": "The user boosts its Defense stat for a while by altering its cellular structure to become liquefied.",
+    "secondary_effect": "Raises user's Defense two stages.",
+    "effect_rate": "",
+    "base_critical_hit_rate": "None",
+    "speed_priority": 0,
+    "pokemon_hit_in_battle": "Self",
+    "physical_contact": false,
+    "sound_type": false,
+    "punch_move": false,
+    "biting_move": false,
+    "snatchable": true,
+    "slicing_move": false,
+    "bullet_type": false,
+    "wind_move": false,
+    "powder_move": false,
+    "metronome": true,
+    "affected_by_gravity": false,
+    "defrosts_when_used": false,
+    "reflected_by_magic_coat": false,
+    "blocked_by_protect": false,
+    "copyable_by_mirror_move": false,
+    "z_move_power": "",
+    "z_move_effect": "",
+    "learned_by": [
+      {
+        "dex_number": "0072",
+        "name": "Tentacool",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 32
+      },
+      {
+        "dex_number": "0073",
+        "name": "Tentacruel",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 34
+      },
+      {
+        "dex_number": "0088",
+        "name": "Grimer",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 43
+      },
+      {
+        "dex_number": "0088",
+        "name": "Grimer",
+        "form": "Alolan",
+        "method": "Level Up",
+        "level": 43
+      },
+      {
+        "dex_number": "0089",
+        "name": "Muk",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 46
+      },
+      {
+        "dex_number": "0089",
+        "name": "Muk",
+        "form": "Alolan",
+        "method": "Level Up",
+        "level": 46
+      },
+      {
+        "dex_number": "0134",
+        "name": "Vaporeon",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 45
+      },
+      {
+        "dex_number": "0489",
+        "name": "Phione",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 31
+      },
+      {
+        "dex_number": "0490",
+        "name": "Manaphy",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 31
+      },
+      {
+        "dex_number": "0615",
+        "name": "Cryogonal",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 52
+      },
+      {
+        "dex_number": "0705",
+        "name": "Sliggoo",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0705",
+        "name": "Sliggoo",
+        "form": "Hisuian",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0868",
+        "name": "Milcery",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 30
+      },
+      {
+        "dex_number": "0869",
+        "name": "Alcremie",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 30
+      },
+      {
+        "dex_number": "0969",
+        "name": "Glimmet",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 41
+      },
+      {
+        "dex_number": "0970",
+        "name": "Glimmora",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 44
+      },
+      {
+        "dex_number": "0218",
+        "name": "Slugma",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0219",
+        "name": "Magcargo",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0316",
+        "name": "Gulpin",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0317",
+        "name": "Swalot",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0422",
+        "name": "Shellos",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0423",
+        "name": "Gastrodon",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0577",
+        "name": "Solosis",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0578",
+        "name": "Duosion",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0579",
+        "name": "Reuniclus",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0607",
+        "name": "Litwick",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0608",
+        "name": "Lampent",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0609",
+        "name": "Chandelure",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0690",
+        "name": "Skrelp",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0691",
+        "name": "Dragalge",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0134",
+        "name": "Vaporeon",
+        "form": "Normal",
+        "method": "Z-A Level Up",
+        "level": 45
+      },
+      {
+        "dex_number": "0582",
+        "name": "Vanillite",
+        "form": "Normal",
+        "method": "Z-A Level Up",
+        "level": 32
+      },
+      {
+        "dex_number": "0583",
+        "name": "Vanillish",
+        "form": "Normal",
+        "method": "Z-A Level Up",
+        "level": 32
+      },
+      {
+        "dex_number": "0584",
+        "name": "Vanilluxe",
+        "form": "Normal",
+        "method": "Z-A Level Up",
+        "level": 32
+      },
+      {
+        "dex_number": "0607",
+        "name": "Litwick",
+        "form": "Normal",
+        "method": "Z-A Level Up",
+        "level": 16
+      },
+      {
+        "dex_number": "0608",
+        "name": "Lampent",
+        "form": "Normal",
+        "method": "Z-A Level Up",
+        "level": 16
+      },
+      {
+        "dex_number": "0609",
+        "name": "Chandelure",
+        "form": "Normal",
+        "method": "Z-A Level Up",
+        "level": 16
+      },
+      {
+        "dex_number": "0705",
+        "name": "Sliggoo",
+        "form": "Normal",
+        "method": "Z-A Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0705",
+        "name": "Sliggoo",
+        "form": "Hisuian",
+        "method": "Z-A Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0706",
+        "name": "Goodra",
+        "form": "Normal",
+        "method": "Z-A Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0706",
+        "name": "Goodra",
+        "form": "Hisuian",
+        "method": "Z-A Level Up",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "name": "Acid Downpour",
+    "battle_type": "Poison",
+    "category": "Special",
+    "power_points": 1,
+    "base_power": 1,
+    "accuracy": 101,
+    "battle_effect": "This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered.",
+    "secondary_effect": "No effect.",
+    "effect_rate": "",
+    "base_critical_hit_rate": "4.17%",
+    "speed_priority": 0,
+    "pokemon_hit_in_battle": "Selected Target",
+    "physical_contact": false,
+    "sound_type": false,
+    "punch_move": false,
+    "biting_move": false,
+    "snatchable": false,
+    "slicing_move": false,
+    "bullet_type": false,
+    "wind_move": false,
+    "powder_move": false,
+    "metronome": false,
+    "affected_by_gravity": false,
+    "defrosts_when_used": false,
+    "reflected_by_magic_coat": false,
+    "blocked_by_protect": false,
+    "copyable_by_mirror_move": false,
+    "z_move_power": "",
+    "z_move_effect": "",
+    "learned_by": []
+  },
+  {
+    "name": "Acid Spray",
+    "battle_type": "Poison",
+    "category": "Special",
+    "power_points": 20,
+    "base_power": 40,
+    "accuracy": 100,
+    "battle_effect": "The user attacks by spitting fluid that works to melt the target. This also harshly lowers the target's Sp. Def stat.",
+    "secondary_effect": "Lowers opponent's Special Defense two stages.",
+    "effect_rate": "",
+    "base_critical_hit_rate": "4.17%",
+    "speed_priority": 0,
+    "pokemon_hit_in_battle": "Selected Target",
+    "physical_contact": false,
+    "sound_type": false,
+    "punch_move": false,
+    "biting_move": false,
+    "snatchable": false,
+    "slicing_move": false,
+    "bullet_type": true,
+    "wind_move": false,
+    "powder_move": false,
+    "metronome": true,
+    "affected_by_gravity": false,
+    "defrosts_when_used": false,
+    "reflected_by_magic_coat": false,
+    "blocked_by_protect": true,
+    "copyable_by_mirror_move": true,
+    "z_move_power": "",
+    "z_move_effect": "",
+    "learned_by": [
+      {
+        "dex_number": "0023",
+        "name": "Ekans",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 28
+      },
+      {
+        "dex_number": "0024",
+        "name": "Arbok",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 32
+      },
+      {
+        "dex_number": "0088",
+        "name": "Grimer",
+        "form": "Alolan",
+        "method": "Level Up",
+        "level": 15
+      },
+      {
+        "dex_number": "0089",
+        "name": "Muk",
+        "form": "Alolan",
+        "method": "Level Up",
+        "level": 15
+      },
+      {
+        "dex_number": "0316",
+        "name": "Gulpin",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 17
+      },
+      {
+        "dex_number": "0317",
+        "name": "Swalot",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 17
+      },
+      {
+        "dex_number": "0434",
+        "name": "Stunky",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 9
+      },
+      {
+        "dex_number": "0603",
+        "name": "Eelektrik",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 49
+      },
+      {
+        "dex_number": "0705",
+        "name": "Sliggoo",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0706",
+        "name": "Goodra",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0706",
+        "name": "Goodra",
+        "form": "Hisuian",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0747",
+        "name": "Mareanie",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 40
+      },
+      {
+        "dex_number": "0748",
+        "name": "Toxapex",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 42
+      },
+      {
+        "dex_number": "0841",
+        "name": "Flapple",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 4
+      },
+      {
+        "dex_number": "0849",
+        "name": "Toxtricity",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0944",
+        "name": "Shroodle",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 5
+      },
+      {
+        "dex_number": "0945",
+        "name": "Grafaiai",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 5
+      },
+      {
+        "dex_number": "0969",
+        "name": "Glimmet",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 7
+      },
+      {
+        "dex_number": "0970",
+        "name": "Glimmora",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 7
+      },
+      {
+        "dex_number": "0994",
+        "name": "Iron Moth",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0001",
+        "name": "Bulbasaur",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0002",
+        "name": "Ivysaur",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0003",
+        "name": "Venusaur",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0023",
+        "name": "Ekans",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0024",
+        "name": "Arbok",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0043",
+        "name": "Oddish",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0044",
+        "name": "Gloom",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0045",
+        "name": "Vileplume",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0048",
+        "name": "Venonat",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0049",
+        "name": "Venomoth",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0069",
+        "name": "Bellsprout",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0070",
+        "name": "Weepinbell",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0071",
+        "name": "Victreebel",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0072",
+        "name": "Tentacool",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0073",
+        "name": "Tentacruel",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0080",
+        "name": "Slowbro",
+        "form": "Galarian",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0088",
+        "name": "Grimer",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0088",
+        "name": "Grimer",
+        "form": "Alolan",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0089",
+        "name": "Muk",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0089",
+        "name": "Muk",
+        "form": "Alolan",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0092",
+        "name": "Gastly",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0093",
+        "name": "Haunter",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0094",
+        "name": "Gengar",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0109",
+        "name": "Koffing",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0110",
+        "name": "Weezing",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0110",
+        "name": "Weezing",
+        "form": "Galarian",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0126",
+        "name": "Magmar",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0151",
+        "name": "Mew",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0167",
+        "name": "Spinarak",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0168",
+        "name": "Ariados",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0182",
+        "name": "Bellossom",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0194",
+        "name": "Wooper",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0194",
+        "name": "Wooper",
+        "form": "Paldean",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0195",
+        "name": "Quagsire",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0199",
+        "name": "Slowking",
+        "form": "Galarian",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0211",
+        "name": "Qwilfish",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0211",
+        "name": "Qwilfish",
+        "form": "Hisuian",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0215",
+        "name": "Sneasel",
+        "form": "Hisuian",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0240",
+        "name": "Magby",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0316",
+        "name": "Gulpin",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0317",
+        "name": "Swalot",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0336",
+        "name": "Seviper",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0434",
+        "name": "Stunky",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0435",
+        "name": "Skuntank",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0453",
+        "name": "Croagunk",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0454",
+        "name": "Toxicroak",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0467",
+        "name": "Magmortar",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0493",
+        "name": "Arceus",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0559",
+        "name": "Scraggy",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0560",
+        "name": "Scrafty",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0603",
+        "name": "Eelektrik",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0604",
+        "name": "Eelektross",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0690",
+        "name": "Skrelp",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0691",
+        "name": "Dragalge",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0705",
+        "name": "Sliggoo",
+        "form": "Hisuian",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0706",
+        "name": "Goodra",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0706",
+        "name": "Goodra",
+        "form": "Hisuian",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0747",
+        "name": "Mareanie",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0748",
+        "name": "Toxapex",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0757",
+        "name": "Salandit",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0758",
+        "name": "Salazzle",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0841",
+        "name": "Flapple",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0849",
+        "name": "Toxtricity",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0903",
+        "name": "Sneasler",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0904",
+        "name": "Overqwil",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0936",
+        "name": "Armarouge",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0938",
+        "name": "Tadbulb",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0939",
+        "name": "Bellibolt",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0944",
+        "name": "Shroodle",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0945",
+        "name": "Grafaiai",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0948",
+        "name": "Toedscool",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0949",
+        "name": "Toedscruel",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0965",
+        "name": "Varoom",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0966",
+        "name": "Revavroom",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0969",
+        "name": "Glimmet",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0970",
+        "name": "Glimmora",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0980",
+        "name": "Clodsire",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0994",
+        "name": "Iron Moth",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "1015",
+        "name": "Munkidori",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "1016",
+        "name": "Fezandipiti",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "1025",
+        "name": "Pecharunt",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0088",
+        "name": "Grimer",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0089",
+        "name": "Muk",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0194",
+        "name": "Wooper",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0194",
+        "name": "Wooper",
+        "form": "Paldean",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0195",
+        "name": "Quagsire",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0211",
+        "name": "Qwilfish",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0211",
+        "name": "Qwilfish",
+        "form": "Hisuian",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0904",
+        "name": "Overqwil",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0980",
+        "name": "Clodsire",
+        "form": "Normal",
+        "method": "Breeding"
+      }
+    ]
+  },
+  {
+    "name": "Acrobatics",
+    "battle_type": "Flying",
+    "category": "Physical",
+    "power_points": 15,
+    "base_power": 55,
+    "accuracy": 100,
+    "battle_effect": "The user nimbly strikes the target. This attack does massive damage if the user isn't holding an item.",
+    "secondary_effect": "Increases damage by 100% if user is not holding an item.",
+    "effect_rate": "",
+    "base_critical_hit_rate": "4.17%",
+    "speed_priority": 0,
+    "pokemon_hit_in_battle": "Selected Target",
+    "physical_contact": true,
+    "sound_type": false,
+    "punch_move": false,
+    "biting_move": false,
+    "snatchable": false,
+    "slicing_move": false,
+    "bullet_type": false,
+    "wind_move": false,
+    "powder_move": false,
+    "metronome": true,
+    "affected_by_gravity": false,
+    "defrosts_when_used": false,
+    "reflected_by_magic_coat": false,
+    "blocked_by_protect": true,
+    "copyable_by_mirror_move": true,
+    "z_move_power": "",
+    "z_move_effect": "",
+    "learned_by": [
+      {
+        "dex_number": "0187",
+        "name": "Hoppip",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 24
+      },
+      {
+        "dex_number": "0188",
+        "name": "Skiploom",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 28
+      },
+      {
+        "dex_number": "0189",
+        "name": "Jumpluff",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 30
+      },
+      {
+        "dex_number": "0207",
+        "name": "Gligar",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 22
+      },
+      {
+        "dex_number": "0390",
+        "name": "Chimchar",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 39
+      },
+      {
+        "dex_number": "0391",
+        "name": "Monferno",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 46
+      },
+      {
+        "dex_number": "0392",
+        "name": "Infernape",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 52
+      },
+      {
+        "dex_number": "0472",
+        "name": "Gliscor",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 22
+      },
+      {
+        "dex_number": "0648",
+        "name": "Meloetta",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 26
+      },
+      {
+        "dex_number": "0661",
+        "name": "Fletchling",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 20
+      },
+      {
+        "dex_number": "0662",
+        "name": "Fletchinder",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 22
+      },
+      {
+        "dex_number": "0663",
+        "name": "Talonflame",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 22
+      },
+      {
+        "dex_number": "0741",
+        "name": "Oricorio",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 23
+      },
+      {
+        "dex_number": "0818",
+        "name": "Inteleon",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 1
+      },
+      {
+        "dex_number": "0841",
+        "name": "Flapple",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 8
+      },
+      {
+        "dex_number": "0912",
+        "name": "Quaxly",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 31
+      },
+      {
+        "dex_number": "0913",
+        "name": "Quaxwell",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 38
+      },
+      {
+        "dex_number": "0914",
+        "name": "Quaquaval",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 43
+      },
+      {
+        "dex_number": "0963",
+        "name": "Finizen",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 29
+      },
+      {
+        "dex_number": "0964",
+        "name": "Palafin",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 29
+      },
+      {
+        "dex_number": "0006",
+        "name": "Charizard",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0049",
+        "name": "Venomoth",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0056",
+        "name": "Mankey",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0057",
+        "name": "Primeape",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0084",
+        "name": "Doduo",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0085",
+        "name": "Dodrio",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0123",
+        "name": "Scyther",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0145",
+        "name": "Zapdos",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0145",
+        "name": "Zapdos",
+        "form": "Galarian",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0146",
+        "name": "Moltres",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0146",
+        "name": "Moltres",
+        "form": "Galarian",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0151",
+        "name": "Mew",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0163",
+        "name": "Hoothoot",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0164",
+        "name": "Noctowl",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0187",
+        "name": "Hoppip",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0188",
+        "name": "Skiploom",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0189",
+        "name": "Jumpluff",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0190",
+        "name": "Aipom",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0198",
+        "name": "Murkrow",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0207",
+        "name": "Gligar",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0212",
+        "name": "Scizor",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0225",
+        "name": "Delibird",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0249",
+        "name": "Lugia",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0252",
+        "name": "Treecko",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0253",
+        "name": "Grovyle",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0254",
+        "name": "Sceptile",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0257",
+        "name": "Blaziken",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0278",
+        "name": "Wingull",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0279",
+        "name": "Pelipper",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0283",
+        "name": "Surskit",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0284",
+        "name": "Masquerain",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0313",
+        "name": "Volbeat",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0314",
+        "name": "Illumise",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0333",
+        "name": "Swablu",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0334",
+        "name": "Altaria",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0390",
+        "name": "Chimchar",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0391",
+        "name": "Monferno",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0392",
+        "name": "Infernape",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0396",
+        "name": "Starly",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0397",
+        "name": "Staravia",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0398",
+        "name": "Staraptor",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0416",
+        "name": "Vespiquen",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0424",
+        "name": "Ambipom",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0425",
+        "name": "Drifloon",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0426",
+        "name": "Drifblim",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0430",
+        "name": "Honchkrow",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0456",
+        "name": "Finneon",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0457",
+        "name": "Lumineon",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0472",
+        "name": "Gliscor",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0480",
+        "name": "Uxie",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0481",
+        "name": "Mesprit",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0482",
+        "name": "Azelf",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0549",
+        "name": "Lilligant",
+        "form": "Hisuian",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0581",
+        "name": "Swanna",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0594",
+        "name": "Alomomola",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0603",
+        "name": "Eelektrik",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0604",
+        "name": "Eelektross",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0615",
+        "name": "Cryogonal",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0619",
+        "name": "Mienfoo",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0620",
+        "name": "Mienshao",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0627",
+        "name": "Rufflet",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0628",
+        "name": "Braviary",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0628",
+        "name": "Braviary",
+        "form": "Hisuian",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0630",
+        "name": "Mandibuzz",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0635",
+        "name": "Hydreigon",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0636",
+        "name": "Larvesta",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0637",
+        "name": "Volcarona",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0641",
+        "name": "Tornadus",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0642",
+        "name": "Thundurus",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0648",
+        "name": "Meloetta",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0656",
+        "name": "Froakie",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0657",
+        "name": "Frogadier",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0658",
+        "name": "Greninja",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0661",
+        "name": "Fletchling",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0662",
+        "name": "Fletchinder",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0663",
+        "name": "Talonflame",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0666",
+        "name": "Vivillon",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0667",
+        "name": "Litleo",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0668",
+        "name": "Pyroar",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0701",
+        "name": "Hawlucha",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0714",
+        "name": "Noibat",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0715",
+        "name": "Noivern",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0724",
+        "name": "Decidueye",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0725",
+        "name": "Litten",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0726",
+        "name": "Torracat",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0727",
+        "name": "Incineroar",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0728",
+        "name": "Popplio",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0729",
+        "name": "Brionne",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0730",
+        "name": "Primarina",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0731",
+        "name": "Pikipek",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0732",
+        "name": "Trumbeak",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0733",
+        "name": "Toucannon",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0738",
+        "name": "Vikavolt",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0741",
+        "name": "Oricorio",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0742",
+        "name": "Cutiefly",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0743",
+        "name": "Ribombee",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0758",
+        "name": "Salazzle",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0763",
+        "name": "Tsareena",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0764",
+        "name": "Comfey",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0766",
+        "name": "Passimian",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0774",
+        "name": "Minior",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0775",
+        "name": "Komala",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0792",
+        "name": "Lunala",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0810",
+        "name": "Grookey",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0811",
+        "name": "Thwackey",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0812",
+        "name": "Rillaboom",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0813",
+        "name": "Scorbunny",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0814",
+        "name": "Raboot",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0815",
+        "name": "Cinderace",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0818",
+        "name": "Inteleon",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0841",
+        "name": "Flapple",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0845",
+        "name": "Cramorant",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0873",
+        "name": "Frosmoth",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0886",
+        "name": "Drakloak",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0887",
+        "name": "Dragapult",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0891",
+        "name": "Kubfu",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0892",
+        "name": "Urshifu",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0893",
+        "name": "Zarude",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0894",
+        "name": "Regieleki",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0900",
+        "name": "Kleavor",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0903",
+        "name": "Sneasler",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0906",
+        "name": "Sprigatito",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0907",
+        "name": "Floragato",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0908",
+        "name": "Meowscarada",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0912",
+        "name": "Quaxly",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0913",
+        "name": "Quaxwell",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0914",
+        "name": "Quaquaval",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0940",
+        "name": "Wattrel",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0941",
+        "name": "Kilowattrel",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0944",
+        "name": "Shroodle",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0945",
+        "name": "Grafaiai",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0962",
+        "name": "Bombirdier",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0963",
+        "name": "Finizen",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0964",
+        "name": "Palafin",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0967",
+        "name": "Cyclizar",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0973",
+        "name": "Flamigo",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0979",
+        "name": "Annihilape",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0988",
+        "name": "Slither Wing",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0991",
+        "name": "Iron Bundle",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0993",
+        "name": "Iron Jugulis",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0994",
+        "name": "Iron Moth",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "1002",
+        "name": "Chien-Pao",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "1005",
+        "name": "Roaring Moon",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "1007",
+        "name": "Koraidon",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "1008",
+        "name": "Miraidon",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "1016",
+        "name": "Fezandipiti",
+        "form": "Normal",
+        "method": "Level Up"
+      }
+    ]
+  },
+  {
+    "name": "Acupressure",
+    "battle_type": "Normal",
+    "category": "Other",
+    "power_points": 30,
+    "base_power": 0,
+    "accuracy": 101,
+    "battle_effect": "The user applies pressure to stress points, sharply boosting one of its or its allies' stats.",
+    "secondary_effect": "Raises one of the user's stats randomly by two stages.",
+    "effect_rate": "",
+    "base_critical_hit_rate": "None",
+    "speed_priority": 0,
+    "pokemon_hit_in_battle": "Self or Ally",
+    "physical_contact": false,
+    "sound_type": false,
+    "punch_move": false,
+    "biting_move": false,
+    "snatchable": false,
+    "slicing_move": false,
+    "bullet_type": false,
+    "wind_move": false,
+    "powder_move": false,
+    "metronome": true,
+    "affected_by_gravity": false,
+    "defrosts_when_used": false,
+    "reflected_by_magic_coat": false,
+    "blocked_by_protect": false,
+    "copyable_by_mirror_move": false,
+    "z_move_power": "",
+    "z_move_effect": "",
+    "learned_by": [
+      {
+        "dex_number": "0084",
+        "name": "Doduo",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 30
+      },
+      {
+        "dex_number": "0085",
+        "name": "Dodrio",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 30
+      },
+      {
+        "dex_number": "0211",
+        "name": "Qwilfish",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 52
+      },
+      {
+        "dex_number": "0211",
+        "name": "Qwilfish",
+        "form": "Hisuian",
+        "method": "Level Up",
+        "level": 52
+      },
+      {
+        "dex_number": "0307",
+        "name": "Meditite",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 33
+      },
+      {
+        "dex_number": "0308",
+        "name": "Medicham",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 33
+      },
+      {
+        "dex_number": "0871",
+        "name": "Pincurchin",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 55
+      },
+      {
+        "dex_number": "0904",
+        "name": "Overqwil",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 52
+      },
+      {
+        "dex_number": "0072",
+        "name": "Tentacool",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0073",
+        "name": "Tentacruel",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0686",
+        "name": "Inkay",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0687",
+        "name": "Malamar",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0761",
+        "name": "Bounsweet",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0762",
+        "name": "Steenee",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0763",
+        "name": "Tsareena",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0846",
+        "name": "Arrokuda",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0847",
+        "name": "Barraskewda",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0948",
+        "name": "Toedscool",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0949",
+        "name": "Toedscruel",
+        "form": "Normal",
+        "method": "Breeding"
+      }
+    ]
+  },
+  {
+    "name": "Aerial Ace",
+    "battle_type": "Flying",
+    "category": "Physical",
+    "power_points": 20,
+    "base_power": 60,
+    "accuracy": 101,
+    "battle_effect": "The user attacks by confounding targets with swift movements before slashing.",
+    "secondary_effect": "Cannot miss.",
+    "effect_rate": "",
+    "base_critical_hit_rate": "4.17%",
+    "speed_priority": 0,
+    "pokemon_hit_in_battle": "Selected Target",
+    "physical_contact": true,
+    "sound_type": false,
+    "punch_move": false,
+    "biting_move": false,
+    "snatchable": false,
+    "slicing_move": true,
+    "bullet_type": false,
+    "wind_move": false,
+    "powder_move": false,
+    "metronome": true,
+    "affected_by_gravity": false,
+    "defrosts_when_used": false,
+    "reflected_by_magic_coat": false,
+    "blocked_by_protect": true,
+    "copyable_by_mirror_move": true,
+    "z_move_power": "",
+    "z_move_effect": "",
+    "learned_by": [
+      {
+        "dex_number": "0214",
+        "name": "Heracross",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 15
+      },
+      {
+        "dex_number": "0255",
+        "name": "Torchic",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 18
+      },
+      {
+        "dex_number": "0256",
+        "name": "Combusken",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 20
+      },
+      {
+        "dex_number": "0257",
+        "name": "Blaziken",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 20
+      },
+      {
+        "dex_number": "0396",
+        "name": "Starly",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 25
+      },
+      {
+        "dex_number": "0397",
+        "name": "Staravia",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 28
+      },
+      {
+        "dex_number": "0398",
+        "name": "Staraptor",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 28
+      },
+      {
+        "dex_number": "0475",
+        "name": "Gallade",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 18
+      },
+      {
+        "dex_number": "0501",
+        "name": "Oshawott",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 25
+      },
+      {
+        "dex_number": "0502",
+        "name": "Dewott",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 29
+      },
+      {
+        "dex_number": "0503",
+        "name": "Samurott",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 29
+      },
+      {
+        "dex_number": "0503",
+        "name": "Samurott",
+        "form": "Hisuian",
+        "method": "Level Up",
+        "level": 29
+      },
+      {
+        "dex_number": "0580",
+        "name": "Ducklett",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 15
+      },
+      {
+        "dex_number": "0581",
+        "name": "Swanna",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 15
+      },
+      {
+        "dex_number": "0627",
+        "name": "Rufflet",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 30
+      },
+      {
+        "dex_number": "0628",
+        "name": "Braviary",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 30
+      },
+      {
+        "dex_number": "0628",
+        "name": "Braviary",
+        "form": "Hisuian",
+        "method": "Level Up",
+        "level": 30
+      },
+      {
+        "dex_number": "0658",
+        "name": "Greninja",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 33
+      },
+      {
+        "dex_number": "0661",
+        "name": "Fletchling",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 30
+      },
+      {
+        "dex_number": "0662",
+        "name": "Fletchinder",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 36
+      },
+      {
+        "dex_number": "0663",
+        "name": "Talonflame",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 38
+      },
+      {
+        "dex_number": "0673",
+        "name": "Gogoat",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0701",
+        "name": "Hawlucha",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 12
+      },
+      {
+        "dex_number": "0891",
+        "name": "Kubfu",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 12
+      },
+      {
+        "dex_number": "0892",
+        "name": "Urshifu",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 12
+      },
+      {
+        "dex_number": "0931",
+        "name": "Squawkabilly",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 13
+      },
+      {
+        "dex_number": "0006",
+        "name": "Charizard",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0027",
+        "name": "Sandshrew",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0027",
+        "name": "Sandshrew",
+        "form": "Alolan",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0028",
+        "name": "Sandslash",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0028",
+        "name": "Sandslash",
+        "form": "Alolan",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0052",
+        "name": "Meowth",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0052",
+        "name": "Meowth",
+        "form": "Alolan",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0052",
+        "name": "Meowth",
+        "form": "Galarian",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0053",
+        "name": "Persian",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0053",
+        "name": "Persian",
+        "form": "Alolan",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0059",
+        "name": "Arcanine",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0059",
+        "name": "Arcanine",
+        "form": "Hisuian",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0084",
+        "name": "Doduo",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0085",
+        "name": "Dodrio",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0123",
+        "name": "Scyther",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0144",
+        "name": "Articuno",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0145",
+        "name": "Zapdos",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0145",
+        "name": "Zapdos",
+        "form": "Galarian",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0146",
+        "name": "Moltres",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0146",
+        "name": "Moltres",
+        "form": "Galarian",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0149",
+        "name": "Dragonite",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0151",
+        "name": "Mew",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0155",
+        "name": "Cyndaquil",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0156",
+        "name": "Quilava",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0157",
+        "name": "Typhlosion",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0157",
+        "name": "Typhlosion",
+        "form": "Hisuian",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0158",
+        "name": "Totodile",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0159",
+        "name": "Croconaw",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0160",
+        "name": "Feraligatr",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0163",
+        "name": "Hoothoot",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0164",
+        "name": "Noctowl",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0187",
+        "name": "Hoppip",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0188",
+        "name": "Skiploom",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0189",
+        "name": "Jumpluff",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0190",
+        "name": "Aipom",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0193",
+        "name": "Yanma",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0198",
+        "name": "Murkrow",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0207",
+        "name": "Gligar",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0212",
+        "name": "Scizor",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0214",
+        "name": "Heracross",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0215",
+        "name": "Sneasel",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0215",
+        "name": "Sneasel",
+        "form": "Hisuian",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0216",
+        "name": "Teddiursa",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0217",
+        "name": "Ursaring",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0225",
+        "name": "Delibird",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0227",
+        "name": "Skarmory",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0237",
+        "name": "Hitmontop",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0247",
+        "name": "Pupitar",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0248",
+        "name": "Tyranitar",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0249",
+        "name": "Lugia",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0250",
+        "name": "Ho-Oh",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0252",
+        "name": "Treecko",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0253",
+        "name": "Grovyle",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0254",
+        "name": "Sceptile",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0255",
+        "name": "Torchic",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0256",
+        "name": "Combusken",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0257",
+        "name": "Blaziken",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0275",
+        "name": "Shiftry",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0278",
+        "name": "Wingull",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0279",
+        "name": "Pelipper",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0284",
+        "name": "Masquerain",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0286",
+        "name": "Breloom",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0287",
+        "name": "Slakoth",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0288",
+        "name": "Vigoroth",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0289",
+        "name": "Slaking",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0302",
+        "name": "Sableye",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0307",
+        "name": "Meditite",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0308",
+        "name": "Medicham",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0313",
+        "name": "Volbeat",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0314",
+        "name": "Illumise",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0329",
+        "name": "Vibrava",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0330",
+        "name": "Flygon",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0333",
+        "name": "Swablu",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0334",
+        "name": "Altaria",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0335",
+        "name": "Zangoose",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0357",
+        "name": "Tropius",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0373",
+        "name": "Salamence",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0375",
+        "name": "Metang",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0376",
+        "name": "Metagross",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0380",
+        "name": "Latias",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0381",
+        "name": "Latios",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0383",
+        "name": "Groudon",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0384",
+        "name": "Rayquaza",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0386",
+        "name": "Deoxys",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0386",
+        "name": "Deoxys",
+        "form": "Alolan",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0392",
+        "name": "Infernape",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0393",
+        "name": "Piplup",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0394",
+        "name": "Prinplup",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0395",
+        "name": "Empoleon",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0396",
+        "name": "Starly",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0397",
+        "name": "Staravia",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0398",
+        "name": "Staraptor",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0402",
+        "name": "Kricketune",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0416",
+        "name": "Vespiquen",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0417",
+        "name": "Pachirisu",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0424",
+        "name": "Ambipom",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0425",
+        "name": "Drifloon",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0426",
+        "name": "Drifblim",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0430",
+        "name": "Honchkrow",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0444",
+        "name": "Gabite",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0445",
+        "name": "Garchomp",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0447",
+        "name": "Riolu",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0448",
+        "name": "Lucario",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0453",
+        "name": "Croagunk",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0454",
+        "name": "Toxicroak",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0461",
+        "name": "Weavile",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0469",
+        "name": "Yanmega",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0470",
+        "name": "Leafeon",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0472",
+        "name": "Gliscor",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0475",
+        "name": "Gallade",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0484",
+        "name": "Palkia",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0495",
+        "name": "Snivy",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0496",
+        "name": "Servine",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0497",
+        "name": "Serperior",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0501",
+        "name": "Oshawott",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0502",
+        "name": "Dewott",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0503",
+        "name": "Samurott",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0503",
+        "name": "Samurott",
+        "form": "Hisuian",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0529",
+        "name": "Drilbur",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0530",
+        "name": "Excadrill",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0549",
+        "name": "Lilligant",
+        "form": "Hisuian",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0552",
+        "name": "Krokorok",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0553",
+        "name": "Krookodile",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0571",
+        "name": "Zoroark",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0571",
+        "name": "Zoroark",
+        "form": "Hisuian",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0580",
+        "name": "Ducklett",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0581",
+        "name": "Swanna",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0610",
+        "name": "Axew",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0611",
+        "name": "Fraxure",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0612",
+        "name": "Haxorus",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0613",
+        "name": "Cubchoo",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0614",
+        "name": "Beartic",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0619",
+        "name": "Mienfoo",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0620",
+        "name": "Mienshao",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0624",
+        "name": "Pawniard",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0625",
+        "name": "Bisharp",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0627",
+        "name": "Rufflet",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0628",
+        "name": "Braviary",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0628",
+        "name": "Braviary",
+        "form": "Hisuian",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0630",
+        "name": "Mandibuzz",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0638",
+        "name": "Cobalion",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0639",
+        "name": "Terrakion",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0640",
+        "name": "Virizion",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0646",
+        "name": "Kyurem",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0647",
+        "name": "Keldeo",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0650",
+        "name": "Chespin",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0651",
+        "name": "Quilladin",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0652",
+        "name": "Chesnaught",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0656",
+        "name": "Froakie",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0657",
+        "name": "Frogadier",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0658",
+        "name": "Greninja",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0661",
+        "name": "Fletchling",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0662",
+        "name": "Fletchinder",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0663",
+        "name": "Talonflame",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0686",
+        "name": "Inkay",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0687",
+        "name": "Malamar",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0701",
+        "name": "Hawlucha",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0714",
+        "name": "Noibat",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0715",
+        "name": "Noivern",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0722",
+        "name": "Rowlet",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0723",
+        "name": "Dartrix",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0724",
+        "name": "Decidueye",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0724",
+        "name": "Decidueye",
+        "form": "Hisuian",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0727",
+        "name": "Incineroar",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0731",
+        "name": "Pikipek",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0732",
+        "name": "Trumbeak",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0733",
+        "name": "Toucannon",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0741",
+        "name": "Oricorio",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0783",
+        "name": "Hakamo-o",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0784",
+        "name": "Kommo-o",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0792",
+        "name": "Lunala",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0800",
+        "name": "Necrozma",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0821",
+        "name": "Rookidee",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0822",
+        "name": "Corvisquire",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0823",
+        "name": "Corviknight",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0841",
+        "name": "Flapple",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0845",
+        "name": "Cramorant",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0863",
+        "name": "Perrserker",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0891",
+        "name": "Kubfu",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0892",
+        "name": "Urshifu",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0893",
+        "name": "Zarude",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0900",
+        "name": "Kleavor",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0901",
+        "name": "Ursaluna",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0903",
+        "name": "Sneasler",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0907",
+        "name": "Floragato",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0908",
+        "name": "Meowscarada",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0912",
+        "name": "Quaxly",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0913",
+        "name": "Quaxwell",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0914",
+        "name": "Quaquaval",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0918",
+        "name": "Spidops",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0920",
+        "name": "Lokix",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0924",
+        "name": "Tandemaus",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0925",
+        "name": "Maushold",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0931",
+        "name": "Squawkabilly",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0940",
+        "name": "Wattrel",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0941",
+        "name": "Kilowattrel",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0956",
+        "name": "Espathra",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0962",
+        "name": "Bombirdier",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0967",
+        "name": "Cyclizar",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0973",
+        "name": "Flamigo",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0983",
+        "name": "Kingambit",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0988",
+        "name": "Slither Wing",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0997",
+        "name": "Arctibax",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0998",
+        "name": "Baxcalibur",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "1002",
+        "name": "Chien-Pao",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "1005",
+        "name": "Roaring Moon",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "1006",
+        "name": "Iron Valiant",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "1010",
+        "name": "Iron Leaves",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "1016",
+        "name": "Fezandipiti",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "1022",
+        "name": "Iron Boulder",
+        "form": "Normal",
+        "method": "Level Up"
+      },
+      {
+        "dex_number": "0278",
+        "name": "Wingull",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0279",
+        "name": "Pelipper",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0845",
+        "name": "Cramorant",
+        "form": "Normal",
+        "method": "Breeding"
+      },
+      {
+        "dex_number": "0214",
+        "name": "Heracross",
+        "form": "Normal",
+        "method": "Z-A Level Up",
+        "level": 15
+      },
+      {
+        "dex_number": "0225",
+        "name": "Delibird",
+        "form": "Normal",
+        "method": "Z-A Level Up",
+        "level": 18
+      },
+      {
+        "dex_number": "0475",
+        "name": "Gallade",
+        "form": "Normal",
+        "method": "Z-A Level Up",
+        "level": 18
+      },
+      {
+        "dex_number": "0657",
+        "name": "Frogadier",
+        "form": "Normal",
+        "method": "Z-A Level Up",
+        "level": 23
+      },
+      {
+        "dex_number": "0658",
+        "name": "Greninja",
+        "form": "Normal",
+        "method": "Z-A Level Up",
+        "level": 23
+      },
+      {
+        "dex_number": "0673",
+        "name": "Gogoat",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0679",
+        "name": "Honedge",
+        "form": "Normal",
+        "method": "Z-A Level Up",
+        "level": 12
+      },
+      {
+        "dex_number": "0680",
+        "name": "Doublade",
+        "form": "Normal",
+        "method": "Z-A Level Up",
+        "level": 12
+      },
+      {
+        "dex_number": "0681",
+        "name": "Aegislash",
+        "form": "Normal",
+        "method": "Z-A Level Up",
+        "level": 12
+      },
+      {
+        "dex_number": "0701",
+        "name": "Hawlucha",
+        "form": "Normal",
+        "method": "Z-A Level Up",
+        "level": 12
+      },
+      {
+        "dex_number": "0015",
+        "name": "Beedrill",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0016",
+        "name": "Pidgey",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0017",
+        "name": "Pidgeotto",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0018",
+        "name": "Pidgeot",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0115",
+        "name": "Kangaskhan",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0123",
+        "name": "Scyther",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0127",
+        "name": "Pinsir",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0149",
+        "name": "Dragonite",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0150",
+        "name": "Mewtwo",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0212",
+        "name": "Scizor",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0214",
+        "name": "Heracross",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0225",
+        "name": "Delibird",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0227",
+        "name": "Skarmory",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0247",
+        "name": "Pupitar",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0248",
+        "name": "Tyranitar",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0302",
+        "name": "Sableye",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0307",
+        "name": "Meditite",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0308",
+        "name": "Medicham",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0333",
+        "name": "Swablu",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0334",
+        "name": "Altaria",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0359",
+        "name": "Absol",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0373",
+        "name": "Salamence",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0444",
+        "name": "Gabite",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0445",
+        "name": "Garchomp",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0447",
+        "name": "Riolu",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0448",
+        "name": "Lucario",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0470",
+        "name": "Leafeon",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0475",
+        "name": "Gallade",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0551",
+        "name": "Sandile",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0552",
+        "name": "Krokorok",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0553",
+        "name": "Krookodile",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0650",
+        "name": "Chespin",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0651",
+        "name": "Quilladin",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0652",
+        "name": "Chesnaught",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0656",
+        "name": "Froakie",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0657",
+        "name": "Frogadier",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0658",
+        "name": "Greninja",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0661",
+        "name": "Fletchling",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0662",
+        "name": "Fletchinder",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0663",
+        "name": "Talonflame",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0679",
+        "name": "Honedge",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0680",
+        "name": "Doublade",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0681",
+        "name": "Aegislash",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0701",
+        "name": "Hawlucha",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0714",
+        "name": "Noibat",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      },
+      {
+        "dex_number": "0715",
+        "name": "Noivern",
+        "form": "Normal",
+        "method": "Z-A Level Up"
+      }
+    ]
+  },
+  {
+    "name": "Aeroblast",
+    "battle_type": "Flying",
+    "category": "Special",
+    "power_points": 5,
+    "base_power": 100,
+    "accuracy": 95,
+    "battle_effect": "A vortex of air is shot at the target to inflict damage. This move has a heightened chance of landing a critical hit.",
+    "secondary_effect": "Has an increased Critical Hit ratio",
+    "effect_rate": "",
+    "base_critical_hit_rate": "12.5%",
+    "speed_priority": 0,
+    "pokemon_hit_in_battle": "Selected Target",
+    "physical_contact": false,
+    "sound_type": false,
+    "punch_move": false,
+    "biting_move": false,
+    "snatchable": false,
+    "slicing_move": false,
+    "bullet_type": false,
+    "wind_move": true,
+    "powder_move": false,
+    "metronome": true,
+    "affected_by_gravity": false,
+    "defrosts_when_used": false,
+    "reflected_by_magic_coat": false,
+    "blocked_by_protect": true,
+    "copyable_by_mirror_move": true,
+    "z_move_power": "",
+    "z_move_effect": "",
+    "learned_by": [
+      {
+        "dex_number": "0249",
+        "name": "Lugia",
+        "form": "Normal",
+        "method": "Level Up",
+        "level": 54
+      }
+    ]
+  }
+]

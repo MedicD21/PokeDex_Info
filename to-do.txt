@@ -1,0 +1,7 @@
+fix pokemon_data with all of the base stats 
+do items scraper 
+configure weaknesses chart 
+go through each gen for moves data
+gen 1-4 names messed up
+
+categories messed up for gen 1 moves
