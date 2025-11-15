@@ -729,6 +729,12 @@ class MovesDataScraper:
                                                             "speed_priority_strong"
                                                         ] = int(val)
 
+            # Extract Contest data (Gen 3 and 4)
+            if self.gen_config["has_contests"]:
+                contest_data = self._extract_contest_data(soup)
+                if contest_data:
+                    move_data["contest"] = contest_data
+
             # Extract Pokemon that learn this move
             move_data["learned_by"] = self.extract_pokemon_learners(soup)
 
@@ -916,6 +922,43 @@ class MovesDataScraper:
                 unique_learners.append(learner)
 
         return unique_learners
+
+    def _extract_contest_data(self, soup) -> Optional[Dict[str, str]]:
+        """Extract contest data for Gen 3 and 4 moves"""
+        try:
+            # Find all tables with class 'dextable'
+            tables = soup.find_all("table", class_="dextable")
+
+            for table in tables:
+                rows = table.find_all("tr")
+
+                for i, row in enumerate(rows):
+                    cells = row.find_all(["td", "th"])
+
+                    # Look for "Contest" header
+                    for j, cell in enumerate(cells):
+                        cell_text = cell.get_text().strip()
+
+                        if "Contest" in cell_text and i + 1 < len(rows):
+                            # Next row should have contest data
+                            contest_row = rows[i + 1]
+                            contest_cells = contest_row.find_all("td")
+
+                            if len(contest_cells) >= 4:
+                                contest_data = {
+                                    "contest_type": contest_cells[0].get_text().strip()
+                                    or "",
+                                    "appeal": contest_cells[1].get_text().strip() or "",
+                                    "jam": contest_cells[2].get_text().strip() or "",
+                                    "effect": contest_cells[3].get_text().strip() or "",
+                                }
+                                # Only return if we have at least one value
+                                if any(contest_data.values()):
+                                    return contest_data
+
+            return None
+        except Exception as e:
+            return None
 
     def scrape_all_moves(self, limit: Optional[int] = None) -> List[Dict[str, Any]]:
         """Scrape all moves data"""
