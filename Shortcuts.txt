@@ -26,3 +26,72 @@ gundo       → Undo last commit but keep your changes
               (git reset HEAD~1)
 
 gsync       → Pull with rebase + push
+
+Node, Docker, Backend AUto Detect
+
+Node Projects:
+- Detects package.json
+- Installs node_modules automatically if missing
+
+Docker:
+- Detects docker-compose.yml
+- Marks project as docker-enabled
+
+Python Backend:
+- Detects main.py or app.py
+- Marks project as backend-ready
+
+
+Env Variables
+
+- Reads .env on entering a folder
+- Sets environment variables for the session
+
+OMPOSH
+
+- Theme: montys.omp.json
+- Shows folder, git branch, machine info, runtime, icons
+- Shows Python venv when activated
+- Supports Nerd Font icons
+
+Auto Dir Change Engine
+
+1. Detect project root
+2. Load .env file
+3. Auto activate Python venv
+4. Auto install npm packages if needed
+5. Detect Docker project
+6. Detect backend script
+7. Print “Project detected at …”
+
+
+Behaviour
+
+✓ PowerShell 7 is default shell
+✓ Oh-My-Posh loads automatically
+✓ Git shortcuts & power tools available everywhere
+✓ Venvs activate automatically
+✓ Node & Docker detection active
+✓ Icons render through Nerd Font
+✓ VS Code uses the same environment
+✓ Your shell is now a full developer workstation
+
+
+ll
+la
+clr
+up
+up2
+
+gstatus
+gadd .
+gcommit -m "message"
+gpush
+gpull
+gbranch
+gcheckout branch
+glg
+
+gfix "message"
+gundo
+gsync

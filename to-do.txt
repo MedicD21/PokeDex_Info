@@ -1,6 +1,6 @@
 
-do items scraper 
-configure weaknesses chart 
+do items scraper ****
+configure weaknesses chart ****
 go through each gen for moves data
-gen 1-4 names messed up
+
 
