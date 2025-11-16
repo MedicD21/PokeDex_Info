@@ -1,0 +1,28 @@
+Navigation Shortcuts
+
+ll          → List files in current directory
+la          → List all files including hidden
+clr         → Clear terminal
+up          → Move up one folder
+up2         → Move up two folders
+
+Git Shortcuts
+
+gstatus     → git status
+gadd .      → git add .
+gcommit -m "msg" → git commit -m "msg"
+gpush       → git push
+gpull       → git pull
+gbranch     → git branch
+gcheckout X → git checkout X
+glg         → Pretty git log (graph view)
+
+
+Git Power Tools
+
+gfix "msg"  → Auto stage + commit + push (1 command workflow)
+
+gundo       → Undo last commit but keep your changes
+              (git reset HEAD~1)
+
+gsync       → Pull with rebase + push

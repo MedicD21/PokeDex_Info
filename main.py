@@ -119,7 +119,7 @@ class PokemonDataOrchestrator:
                     print(f"Basic scraper exited with code {result.returncode}")
 
             elif scraper_name == "comprehensive":
-                from comprehensive_scraper import main as run_comprehensive_scraper
+                from scrapers.comprehensive_scraper import main as run_comprehensive_scraper
 
                 run_comprehensive_scraper()
 
